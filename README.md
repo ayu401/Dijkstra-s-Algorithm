@@ -18,7 +18,7 @@ This Python script demonstrates Dijkstra's algorithm with a hardcoded graph usin
 - Dijkstra's algorithm is applied using nx.shortest_path() and nx.shortest_path_length() to find the shortest path and its distance.
 - The result is printed, showing the shortest path and total distance.
 
-## **Code 2: User Input Graph**
+## **Code 2: User Input Graph and Graph Visualization**
 
 This Python script demonstrates Dijkstra's algorithm with a user-input graph using the NetworkX library.
 - networkx is imported to utilize its functions for graph creation and manipulation.
@@ -26,6 +26,19 @@ This Python script demonstrates Dijkstra's algorithm with a user-input graph usi
 - The user inputs the number of edges and details of each edge, including start node, end node, and weight.
 - Dijkstra's algorithm is applied using nx.shortest_path() and nx.shortest_path_length() to find the shortest path and its distance.
 - The result is printed, showing the shortest path and total distance.
+  
+**Visualization**
+- The graph is visualized with nodes and edges using NetworkX and Matplotlib.
+- Node labels and edge weights are displayed on the graph.
+
+*Visualization of sample test graph data:*
+
+<img width="279" alt="image" src="https://github.com/ayu401/Dijkstra-s-Algorithm/assets/77326096/ed9ca928-f7ac-4d18-9ac0-b2d94140645f">
+
+
+*Sample output test graph:*
+
+<img width="228" alt="image" src="https://github.com/ayu401/Dijkstra-s-Algorithm/assets/77326096/7086ad15-177d-4be8-9c62-f421c407c9f3">
 
 ## **How Dijkstra's Algorithm Works**
 
