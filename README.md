@@ -4,6 +4,7 @@
 
 - Python 3.x
 - NetworkX library (pip install networkx)
+- Matplotlib library (pip install matplotlib)
 
 ## **About Dijkstra's Algorithm**
 
